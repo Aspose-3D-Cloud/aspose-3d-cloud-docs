@@ -5,5 +5,5 @@ url: /working-with-modelprocess-using-aspose-3d-cloud/
 weight: 10
 ---
 
-- [Create a new entity with size](/create-a-new-entity-with-size/)
-- [Delete nodes from a scene](/delete-nodes-from-a-scene/)
+- [Create a new entity with size](/3d/create-a-new-entity-with-size/)
+- [Delete nodes from a scene](/3d/delete-nodes-from-a-scene/)

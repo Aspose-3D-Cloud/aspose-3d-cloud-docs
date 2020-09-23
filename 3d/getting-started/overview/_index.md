@@ -9,4 +9,4 @@ weight: 10
 
 
 ## **Introduction**
-Aspose.3D Cloud is a REST based API which allows you to create, edit and convert 3D files in the cloud. You can convert 3D documents into various formats. For a list of supported document formats please read [Supported Document Formats](/supported-document-formats/) section in our documentation. We provide the SDKs for .NET and Java developers.
+Aspose.3D Cloud is a REST based API which allows you to create, edit and convert 3D files in the cloud. You can convert 3D documents into various formats. For a list of supported document formats please read [Supported Document Formats](/3d/supported-document-formats/) section in our documentation. We provide the SDKs for .NET and Java developers.
