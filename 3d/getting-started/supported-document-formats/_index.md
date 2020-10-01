@@ -8,7 +8,7 @@ weight: 40
 The following table indicates the file formats that Aspose.3D for .NET can load and Save.
 
 |**Format**|**Description**|**Load**|**Save**|**Remarks**|**File Format in Code**|
-| :- | :- | :- | :- | :- |
+| :- | :- | :- | :- | :- | :- |
 |[AMF](https://wiki.fileformat.com/3d/amf/)|Additive manufacturing file format|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |amf|
 |[3DS](https://wiki.fileformat.com/3d/3ds/)|3D Studio|{{< emoticons/tick >}}|{{< emoticons/tick >}}|discreet3ds|discreet3ds|
 |[RVM](https://wiki.fileformat.com/3d/rvm/)|AVEVA Plant Design Management System Model|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |rvmbinary,rvmtext|
@@ -23,8 +23,8 @@ The following table indicates the file formats that Aspose.3D for .NET can load 
 |[U3D](https://wiki.fileformat.com/3d/u3d/)|Universal3D|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |universal3d|
 |[GLTF](https://wiki.fileformat.com/3d/gltf/)|GL Transmission Format|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |gltf, gltf2, gltf_binary, gltf2_binary|
 |[JT](https://wiki.fileformat.com/3d/jt/)|Siemens JT File|{{< emoticons/tick >}}| |Only supports version 8 and 9.|siemensjt8,siemensjt9|
-|[X](https://wiki.fileformat.com/3d/x/)|DirectX File|{{< emoticons/tick >}}| |xbinary, xtext|
-|[3MF](https://wiki.fileformat.com/3d/3mf/)|Microsoft 3D Manufacturing Format|{{< emoticons/tick >}}| | microsoft3mf|
+|[X](https://wiki.fileformat.com/3d/x/)|DirectX File|{{< emoticons/tick >}}| | |xbinary, xtext|
+|[3MF](https://wiki.fileformat.com/3d/3mf/)|Microsoft 3D Manufacturing Format|{{< emoticons/tick >}}| | | microsoft3mf|
 |[ASE](https://wiki.fileformat.com/3d/ase/)|3D Studio Max's ASCII Scene Exporter format|{{< emoticons/tick >}}| | |
-|[HTML](https://wiki.fileformat.com/web/html/)|Support for HTML|{{< emoticons/tick >}}|{{< emoticons/tick >}}| | |
+|[HTML](https://wiki.fileformat.com/web/html/)|Support for HTML|{{< emoticons/tick >}}|{{< emoticons/tick >}}| | | |
 
