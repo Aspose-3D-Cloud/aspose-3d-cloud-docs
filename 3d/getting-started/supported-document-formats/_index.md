@@ -14,7 +14,7 @@ The following table indicates the file formats that Aspose.3D for .NET can load 
 |[RVM](https://wiki.fileformat.com/3d/rvm/)|AVEVA Plant Design Management System Model|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |rvmbinary,rvmtext|
 |[DRC](https://wiki.fileformat.com/3d/drc/)|Google Draco|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |draco|
 |[DAE](https://wiki.fileformat.com/3d/dae/)|Collada|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |collada|
-|[DXF](https://wiki.fileformat.com/cad/dxf/)|AutoCAD DXF|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |dxf|
+|[DXF](https://wiki.fileformat.com/cad/dxf/)|AutoCAD DXF|{{< emoticons/tick >}}| | |dxf|
 |[FBX](https://wiki.fileformat.com/3d/fbx/)|Autodesk FBX format.|{{< emoticons/tick >}}|{{< emoticons/tick >}}|From 7.2 to 7.5, both ASCII/Binary.|fbx7200ascii, fbx7200binary, fbx7300ascii, fbx7300binary, fbx7400ascii, fbx7400binary, fbx7500ascii, fbx7500binary|
 |[OBJ](https://wiki.fileformat.com/3d/obj/)|Wavefront Obj|{{< emoticons/tick >}}|{{< emoticons/tick >}}|Including mesh/point cloud support.|wavefrontobj|
 |[PDF](https://wiki.fileformat.com/view/pdf/)|3D PDF|{{< emoticons/tick >}}|{{< emoticons/tick >}}|<p>Only supports standard U3D embedded 3D content in PDF.</p><p>PRC and U3D with RH Mesh extension are not supported yet.</p>|pdf|
