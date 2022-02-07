@@ -27,4 +27,5 @@ The following table indicates the file formats that Aspose.3D for .NET can load 
 |[3MF](https://wiki.fileformat.com/3d/3mf/)|Microsoft 3D Manufacturing Format|{{< emoticons/tick >}}| | | microsoft3mf|
 |[ASE](https://wiki.fileformat.com/3d/ase/)|3D Studio Max's ASCII Scene Exporter format|{{< emoticons/tick >}}| | |
 |[HTML](https://wiki.fileformat.com/web/html/)|Support for HTML|{{< emoticons/tick >}}|{{< emoticons/tick >}}| | | |
-
+|[USD](https://docs.fileformat.com/3d/usd/)|Universal Scene Description|{{< emoticons/tick >}}| | |
+|[USDZ](https://wiki.fileformat.com/3d/usdz/)|Universal Scene Description Archive|{{< emoticons/tick >}}| | |
